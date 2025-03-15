@@ -1,7 +1,7 @@
 {
-  "name": "prototype2",
+  "name": "ReactTimeline",
   "version": "1.0.0",
-  "homepage": "https://VaidaRubyte.github.io/prototype2",
+  "homepage": "https://VaidaRubyte.github.io/ReactTimeline",
 
   "dependencies": {
     "react": "^18.3.1",
