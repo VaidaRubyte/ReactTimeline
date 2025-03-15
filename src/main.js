@@ -1,5 +1,5 @@
-/*import React, { useState } from "react";
-import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeline-component";
+import React, { useState } from "react";
+import { VerticalTimeline, VerticalTimelineElement } from "ReactTimeline";
 import "react-vertical-timeline-component/style.min.css";
 import { FaUmbrella } from "react-icons/fa"; // Umbrella icon
 
@@ -61,8 +61,8 @@ const App = () => {
 
 export default App;
 
-*/
 
+/*
 // main.js (Updated with WebAR Support)
 import React, { useState } from "react";
 import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeline-component";
@@ -140,4 +140,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default App;*/
